@@ -1,6 +1,6 @@
 import fire
 
-from yesup.tensorflow.tools.ExportedModelReader import ExportedModelReader
+from yesup.tensorflow.tools.exported_model_reader import ExportedModelReader
 
 if __name__ == "__main__":
 
